@@ -1,2 +1,3 @@
-0 dormido
-1 despierto
+0 Lápiz
+1 Papel
+2 Nada
